@@ -1,0 +1,14 @@
+[
+  {
+    "id": "141f1fe1-4b14-430a-b1d0-0f6a62621357",
+    "login": "sergey",
+    "wish": {
+    },
+    "avatar": "avatars/empty.png",
+    "birthdate": "9/30/1996",
+    "password": "ASDasd123123",
+    "name": "Xiaomi",
+    "surname": "Петрович",
+    "description": "шо то, шо то"
+  }
+]
